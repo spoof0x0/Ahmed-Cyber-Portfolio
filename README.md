@@ -12,7 +12,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/spoof0x0/Ahmed-Cyber-Portfolio?style=social)](https://github.com/spoof0x0/Ahmed-Cyber-Portfolio/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/spoof0x0/Ahmed-Cyber-Portfolio?style=social)](https://github.com/spoof0x0/Ahmed-Cyber-Portfolio/network/members)
 
-<img alt="Portfolio Preview" src="src/assets/images/mockup.png" width="800px" />
 
 </div>
 
